@@ -6,7 +6,6 @@
                 <h2 class="font-semibold text-lg text-gray-800 mb-5">Create New Todo</h2>
             </div>
             <div>
-                {{-- <h1>New todo: {{ $newtodo }}</h1> --}}
                 <form>
                     <div class="mb-6">
                         <label for="newtodo"
