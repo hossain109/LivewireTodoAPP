@@ -3,7 +3,7 @@
     <div class="mx-auto">
         <div id="create-form" class="hover:shadow p-6 bg-white border-blue-500 border-t-2">
             <div class="flex ">
-                <h2 class="font-semibold text-lg text-gray-800 mb-5">Create New Todo</h2>
+                <h2 class="font-semibold text-lg text-gray-800 mb-5">Add New Todo</h2>
             </div>
             <div>
                 <form>
